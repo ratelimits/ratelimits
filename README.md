@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Siri! 👋
 ### I like to code things.
 
-![](https://komarev.com/ghpvc/?username=badlexsiri&label=View%20Count&color=303030&style=flat)
+![](https://komarev.com/ghpvc/?username=badlexsiri&label=View%20Count&color=303030&style=for-the-badge)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/875420328128548995)](https://discord.com/users/875420328128548995)
 
